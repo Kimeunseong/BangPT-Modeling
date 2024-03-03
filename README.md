@@ -4,4 +4,5 @@ Myongji University 4th grade 1st semester capstone design project "P.T. teacher 
 
 ## 개요
 
-![image](https://github.com/Kimeunseong/BangPT-Modeling/assets/111672496/0252d3b2-c4ea-4a04-bb58-95bb5337c684)
+
+![image](https://github.com/Kimeunseong/BangPT-Modeling/assets/111672496/22628001-e326-4941-8b09-bf8741c53c5a)
